@@ -1,0 +1,14 @@
+==== Buổi 1 ====
+ * Component:
+    * Stateful: class
+    * Stateless: function
+
+
+==== Buổi 2 ====
+    - Rendering Elements: {}
+    - Handling Event: onClick
+    - State: Nếu state có giá trị thay đổi => thì component re-render
+            const [variable, method] = useState(defaultValue)
+                - defaultValue là giá trị mặc định cho variable
+                - method để cập nhật giá trị mới cho variable
+    - ListKeys
